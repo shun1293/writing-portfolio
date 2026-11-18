@@ -9,7 +9,7 @@ from PIL import Image, ImageOps, UnidentifiedImageError
 
 ARTICLES = {
     "trinity_baba": "https://note.com/trinity_npi/n/n5dff04d83243",
-    "trinity": "https://note.com/trinity_npi/n/n6c301bcaedff",
+    "trinity": "https://note.com/trinity_npi/n/n7a2c3da64b0c",
     "manga_mythology": "https://ndg.ac.jp/column/manga_mythology",
     "sotsuten_takeo": "https://npi.ac.jp/column/sotsuten_takeo",
     "emotionaldesign": "https://ndg.ac.jp/column/emotionaldesign",
